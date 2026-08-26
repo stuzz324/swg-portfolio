@@ -1,0 +1,6 @@
+[submodule "MagnusSignIn"]
+	path = MagnusSignIn
+	url = git@github.com:stuzz324/MagnusSignIn
+[submodule "school/android-studio/MagnusSignIn"]
+	path = school/android-studio/MagnusSignIn
+	url = git@github.com:stuzz324/MagnusSignIn

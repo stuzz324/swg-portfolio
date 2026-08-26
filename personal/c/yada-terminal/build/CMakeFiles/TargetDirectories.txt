@@ -1,0 +1,5 @@
+/home/will/portfolio_projects/reps/swg-portfolio/personal/c/yada/build/CMakeFiles/yada-text.dir
+/home/will/portfolio_projects/reps/swg-portfolio/personal/c/yada/build/CMakeFiles/edit_cache.dir
+/home/will/portfolio_projects/reps/swg-portfolio/personal/c/yada/build/CMakeFiles/rebuild_cache.dir
+/home/will/portfolio_projects/reps/swg-portfolio/personal/c/yada/build/src/CMakeFiles/edit_cache.dir
+/home/will/portfolio_projects/reps/swg-portfolio/personal/c/yada/build/src/CMakeFiles/rebuild_cache.dir

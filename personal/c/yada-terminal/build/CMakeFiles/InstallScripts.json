@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/will/portfolio_projects/reps/swg-portfolio/personal/c/yada/build/cmake_install.cmake",
+		"/home/will/portfolio_projects/reps/swg-portfolio/personal/c/yada/build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
