@@ -1,0 +1,6 @@
+[submodule "swg-portfolio"]
+	path = swg-portfolio
+	url = https://github.com/stuzz324/swg-portfolio.git
+[submodule "school/android-studio/MagnusSignIn"]
+	path = school/android-studio/MagnusSignIn
+	url = git@github.com:stuzz324/MagnusSignIn.git
